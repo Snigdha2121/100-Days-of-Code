@@ -10,7 +10,7 @@ This repository is part of my commitment to learning Python and improving my cod
 
 You can find my daily progress in the `days` folder. Each day will be documented in its own folder named `dayXX`, where `XX` is the day number. Inside each folder, you will find:
 
-- `dayXX_code.py`: Python script containing the day's coding exercises or projects.
+- `dayXX_code.ipynb`: Jupyter Notebook containing the day's coding exercises or projects.
 - `dayXX_notes.md`: Markdown file with notes and explanations about the day's work.
 
 
