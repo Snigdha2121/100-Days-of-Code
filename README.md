@@ -12,7 +12,7 @@ You can find my daily progress in the `days` folder. Each day will be documented
 
 - `dayXX_code.ipynb`: Jupyter Notebook containing the day's coding exercises or concepts.
 - `dayXX_prooject.ipynb`: Jupyter Notebook containing the day's projects.
-- `dayXX_notes.md`: Markdown file with notes and explanations about the day's work.
+- `README.md`: Markdown file with notes and explanations about the day's work.
 
 
 ## Resources
